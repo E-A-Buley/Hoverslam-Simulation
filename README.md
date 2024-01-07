@@ -1,1 +1,1 @@
-A unity simulation of a hoverslam manoeuvre. Public only so that I can uses pages. 
+A unity simulation of a hoverslam manoeuvre. Unfortunately, timesteps while running the pages version prevent the autopilot from properly functioning but the manual still works.
